@@ -97,8 +97,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Google Data Analytics Professional Certificate, Coursera',
-      body: `<a href = "https://www.coursera.org/account/accomplishments/specialization/PJKFQS8JHWAJ"
-        >Verify Certificate on Coursera</a>`,
+      body: '',
       year: 'March 2024',
       link: 'https://www.coursera.org/account/accomplishments/specialization/PJKFQS8JHWAJ',
     },
