@@ -84,7 +84,7 @@ const CONFIG = {
       position: 'AI Data Annotator & Content Writer, Contract',
       from: 'September 2023',
       to: 'Present',
-      companyLink: 'DataAnnotation.Tech,
+      companyLink: 'https://DataAnnotation.Tech',
     },
     {
       company: 'FerrellGas',
