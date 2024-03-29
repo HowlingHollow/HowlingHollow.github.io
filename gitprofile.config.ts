@@ -60,7 +60,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1iJ7C_YqcSQCzFNvWCj2JeO3rSdNCviqD/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'SQL',
@@ -97,7 +97,8 @@ const CONFIG = {
   certifications: [
     {
       name: 'Google Data Analytics Professional Certificate, Coursera',
-      body: 'Lorem ipsum dolor sit amet',
+      body: `<a href = "https://www.coursera.org/account/accomplishments/specialization/PJKFQS8JHWAJ"
+        >Verify Certificate on Coursera</a>`,
       year: 'March 2024',
       link: 'https://www.coursera.org/account/accomplishments/specialization/PJKFQS8JHWAJ',
     },
